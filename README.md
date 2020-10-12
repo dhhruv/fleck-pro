@@ -18,7 +18,7 @@ b. Secondly, when you want to Restore your Data then use UNLOCK THE FOLDER optio
 
 c. In Future, if you want to change your Password or PIN or both then you can use the CHANGE YOUR PASSWORD Option and repeat the Step-1.
 
-d. IV.	If you want to make a Zip File for all your Data then you can use the MAKE A ZIP FILE Option which will create a Zip File containing all the Data in the LOCKER Folder with inbuilt Password same as your User Password you’ve entered.
+d. If you want to make a Zip File for all your Data then you can use the MAKE A ZIP FILE Option which will create a Zip File containing all the Data in the LOCKER Folder with inbuilt Password same as your User Password you’ve entered.
 (7-Zip must be installed and given access to the Path to use this Feature. Also it is necessary that the Data must be Unlocked before using this Feature.) 
 
 e. If at any point of time you want to remove the Software then you can use the REMOVE THE SOFTWARE Option.
