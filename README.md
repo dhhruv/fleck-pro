@@ -1,5 +1,9 @@
 # FLECK PRO
 
+## Table of contents
+* [Introduction](#introduction)
+* [Setup](#setup)
+
 ## Introduction:
 Nowadays, people need to store their Sensitive Data like Documents for their verification purpose, Job-stuff, Project Details of students etc... in their PC/Laptop which they do not want to share with others. So the purpose of this Software is simply and completely based on securing their Data using Data Hiding Algorithms protected by a Password and an PIN. Basically this software makes it difficult for the Intruder to get access to your Data by any kind of means or path in the PC/Laptop. (For Windows OS only)
 
